@@ -97,6 +97,9 @@ $this->fontdata = array(
 		'useOTL' => 0xFF,
 		'useKashida' => 75,
 	),
+	"fontawesome" => array(
+		'R' => "fontawesome-webfont.ttf",
+	),
 	"dejavuserif" => array(
 		'R' => "DejaVuSerif.ttf",
 		'B' => "DejaVuSerif-Bold.ttf",
